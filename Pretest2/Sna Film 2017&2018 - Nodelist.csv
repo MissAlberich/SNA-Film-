@@ -1,16 +1,15 @@
 id,name,sex,agency,role,year
-mb,Marie Bäumer ,1,players,1,2018
+mb,Marie Bäumer,1,players,1,2018
 fr,Franz Rogowski,2,players,1,2018
 bm,Birgit Minichmayr,1,players,2,2018
 rg,Robert Gwisdek,2,GWISDEK die agentur (Stiefmutter),2,2018
 sh,Sandra Hüller,1,Agentur Schneider Berlin,1,2017
-ps,Peter Simonischek † ,2,MANAGEMENT GOLDSCHMIDT,1,2017
+ps,Peter Simonischek,2,MANAGEMENT GOLDSCHMIDT,1,2017
 fh,Fritzi Haberlandt,1,die agenten,2,2017
 gf,Georg Friedrich,2,DIVINA,2,2017
 players,players,NA,NA,NA,NA
-GWISDEK,GWISDEK die agentur ,NA,NA,NA,NA
+GWISDEK,GWISDEK die agentur,NA,NA,NA,NA
 Schneider Berlin,Agentur Schneider Berlin,NA,NA,NA,NA
 Management Goldschmidt,MANAGEMENT GOLDSCHMIDT,NA,NA,NA,NA
 agenten,die agenten,NA,NA,NA,NA
 DIVINA,DIVINA,NA,NA,NA,NA
-NA,NA,NA,NA,NA,NA
