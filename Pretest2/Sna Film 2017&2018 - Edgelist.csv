@@ -2,11 +2,11 @@ from,to,relation
 mb,players,NA
 fr,players,NA
 bm,players,NA
-rg,GWISDEK die agentur,NA
-sh,Agentur Schneider Berlin,NA
-ps,MANAGEMENT GOLDSCHMIDT,NA
-fh,agenten,NA
-gf,DIVINA,NA
+rg,GWISDEK,NA
+sh,Schneider Berlin,NA
+ps,Management Goldschmidt,0
+fh,agenten,0
+gf,DIVINA,0
 sh,ps,1
 mb,bm,1
 mb,rg,1
