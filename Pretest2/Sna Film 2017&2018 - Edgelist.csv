@@ -1,12 +1,12 @@
 from,to,relation
-mb,players,
-fr,players,
-bm,players,
-rg,GWISDEK die agentur (Stiefmutter),
-sh,Agentur Schneider Berlin,
-ps,MANAGEMENT GOLDSCHMIDT,
-fh,die agenten,
-gf,DIVINA,
+mb,players,NA
+fr,players,NA
+bm,players,NA
+rg,GWISDEK die agentur (Stiefmutter),NA
+sh,Agentur Schneider Berlin,NA
+ps,MANAGEMENT GOLDSCHMIDT,NA
+fh,die agenten,NA
+gf,DIVINA,NA
 sh,ps,1
 mb,bm,1
 mb,rg,1
